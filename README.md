@@ -1,3 +1,3 @@
 # Python-Course.
 Day 1
-Hello to the world of coding and my very first project! Day 1 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+https://replit.com/@MajidAlbadwi/day-1100-days?v=1
